@@ -32,6 +32,7 @@ My academic journey reflects my commitment to advancing knowledge in economics a
 My current research revolves around the intersection of climate change and agriculture:
 - **Climate Change Impacts:** I am investigating how severe weather patterns affect agricultural productivity, with a focus on the decision-making processes of smallholder farmers in Sub-Saharan Africa.
 - **Technology Adoption:** Exploring the drivers and barriers to the adoption and disadoption of agricultural technologies in response to environmental challenges.
+- **Sustainable Agricultural Practices:**  Sustainable Agricultural Practices and Carbon Dioxide Concentration
 
 ## 🌐 Explore More
 To dive deeper into my work, publications, and ongoing projects, please visit my [portfolio](https://atingad.netlify.app/). Here, you'll find detailed information about my research, consulting engagements, and contributions to the field of development economics.
